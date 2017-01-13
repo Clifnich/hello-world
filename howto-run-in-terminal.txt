@@ -1,0 +1,5 @@
+How to run Java in Terminal
+
+1. write the code
+2. use javac to compile the code
+3. use `java -cp . [filename]` to run the program
